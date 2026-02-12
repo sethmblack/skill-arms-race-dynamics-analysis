@@ -1,12 +1,10 @@
 ---
 name: arms-race-dynamics-analysis
-description: Analyze competitive dynamics where adaptations on one side drive counter-adaptations
-  on the other, creating escalation cycles. Predict trajectories using the life-dinner
-  and rare-enemy principles.
+description: Analyze competitive dynamics where adaptations on one side drive counter-adaptations on the other, creating escalation cycles. Predict trajectories using the life-dinner and rare-enemy principles.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - arms-race-dynamics-analysis
 - escalation
