@@ -4,7 +4,8 @@ description: Analyze competitive dynamics where adaptations on one side drive co
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3409
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - arms-race-dynamics-analysis
 - escalation
